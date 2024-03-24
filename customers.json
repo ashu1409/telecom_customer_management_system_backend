@@ -11,5 +11,18 @@
         "planCost": 499,
         "planValidity": 365,
         "planStatus": "Active"
+    },
+    {
+        "id": 2,
+        "name": "Alice Smith",
+        "dob": "1985-05-15",
+        "email": "alice@example.com",
+        "adharNumber": "987654321098",
+        "registrationDate": "2024-03-24",
+        "assignedMobileNumber": "8765432109",
+        "plan": "Gold180",
+        "planCost": 299,
+        "planValidity": 180,
+        "planStatus": "Active"
     }
 ]
