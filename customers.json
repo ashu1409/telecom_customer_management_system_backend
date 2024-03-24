@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "dob": "1990-01-01",
+        "email": "john@example.com",
+        "adharNumber": "123456789012",
+        "registrationDate": "2024-03-23",
+        "assignedMobileNumber": "9876543210",
+        "plan": "Platinum365",
+        "planCost": 499,
+        "planValidity": 365,
+        "planStatus": "Active"
+    }
+]
